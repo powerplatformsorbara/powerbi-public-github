@@ -1,0 +1,26 @@
+﻿{
+	"name": "Sorbara BI Theme",
+	"dataColors": [
+		"#EBEDEA",
+		"#A7B3AA",
+		"#434B56",
+		"#464A4D",
+		"#EBEDEA",
+		"#A7B3AA",
+		"#434B56",
+		"#464A4D"
+	],
+	"foreground": "#434B56",
+	"background": "#EBEDEA",
+	"foregroundNeutralSecondary": "#6E5746",
+	"backgroundLight": "#FCF7F0",
+	"foregroundNeutralTertiary": "#928F8B",
+	"backgroundNeutral": "#EDE8E1",
+	"tableAccent": "#566164",
+	"maximum": "#7CD7AA",
+	"center": "#7293B0",
+	"minimum": "#45408E",
+	"bad": "#FF8E51",
+	"neutral": "#FDFF7A",
+	"good": "#91FF80"
+}
